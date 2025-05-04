@@ -13,4 +13,6 @@ Enjoy!
 
 [Lecture 1 - Intro to programming Roblox with Lua](lecture01/)
 
+[Lecture 2 - Lua basics](lecture02/)
+
 By [https://github.com/murrekatt](murrekatt).
